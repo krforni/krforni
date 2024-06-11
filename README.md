@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @krforni
 - 👀 I’m interested in learning how to use Github to design a syllabus for a start and to create my own website.
 - 🌱 I’m currently having trouble and could really use a tutor. 
-- 💞️ 
 - 📫 How to reach me at fornikathy@gmail.com
 
 <!---
